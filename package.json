@@ -1,0 +1,20 @@
+{
+  "name": "iotivity_tester",
+  "version": "0.0.1",
+  "description": "An IoTivity client that toggle a light on and off a set number of times.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iotivity",
+    "client",
+    "webserver"
+  ],
+  "author": "Alexander Larsson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "iotivity-node": "^1.0.1-1"
+  }
+}
